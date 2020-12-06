@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Francisco Fuentes",
+    "occupation": "Full stack JS web developer",
+    "description": "Front end: React js, React Native, Redux Js. Back end: Node js, Express js, PostreSQL, Sequelize, MongoDB, Mongoose, GraphQL",
+    "image": "perfil.jpg",
+    "bio": "i'm 23 years old and i've more than 3 years in the world of development . i'm a dynamic person, with facility with the relationships and excelent dynamic in group works. Passionate about challenges.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "francisco.fuentes.fullstack@gmail.com",
+    "phone": "+54 264 564 3077",
+    "address": {
+      "street": "Espejo 343",
+      "city": "Mendoza",
+      "state": "Argentine",
+      "zip": "M-5539"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1HthfBobitVbh4_rzZXeghKSC68I0JsL3/view",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/francisco-fuentes-7753a41ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/panchooFuentes/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/FuentesFrancisco",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+         {
+        "school": "University UTN FRM",
+        "degree": "engineering in information systems",
+        "graduated": "Studing",
+        "description": "60% completed"
+      },
+       {
+        "school": "Henry",
+        "degree": "Developer Full Stack JS",
+        "graduated": "dicember 2020",
+        "description": "I'm teaching assistent on Henry"
+      }
+    ],
+    "work": [
+      {
+        "company": "Henry",
+        "title": "Teaching assistent ",
+        "years": "OCT 2020 - Present",
+        "description": "Teaching javascript to herny's new students."
+      },
+      {
+        "company": "Freelancer Projects",
+        "title": "Web developer",
+        "years": "SEP 2019 - present",
+        "description": "Development and maintenance of web apps."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
+        "name": "ReduxJs",
+        "level": "95%"
+      },
+       {
+        "name": "NodeJs",
+        "level": "100%"
+      },
+       {
+        "name": "ExpressJs",
+        "level": "100%"
+      },
+         {
+        "name": "PostreSQL",
+        "level": "80%"
+      },
+       {
+        "name": "Sequelize",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Mongoose",
+        "level": "90%"
+      },
+       {
+        "name": "GraphQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bomba E-commerce",
+        "category": "E-commerce built with PERN (PostrgreSQL, ExpressJS, ReactJS, NodeJS, ReduxJS)",
+        "image": "bomba.jpg",
+        "url": "https://bomba-ecommerce.web.app/"
+      },
+      {
+        "title": "PaintArt",
+        "category": "gallery of web art build with PERN (PostrgreSQL, ExpressJS, ReactJS, NodeJS)",
+        "image": "artPaint.jpg",
+        "url": "https://paint-art.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
